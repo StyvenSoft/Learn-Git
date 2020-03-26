@@ -12,16 +12,26 @@ Exercises
 
 - [X] 2. git init
 
-- [ ] 3. Git Workflow
+- [x] 3. Git Workflow
 
-- [ ] 4. git status
+- [x] 4. git status
 
-- [ ] 5. git add
+- [x] 5. git add
 
-- [ ] 6. git diff
+- [x] 6. git diff
 
-- [ ] 7. git commit
+![Diff screen](Diff.JPG)
 
-- [ ] 8. git log
+- [x] 7. git commit
 
-- [ ] 9. Generalizations
+![Commit screen](Commit.JPG)
+
+- [x] 8. git log
+
+![Log screen](Log.JPG)
+
+- [x] 9. Generalizations
+
+---
+
+[Getting Started with Git and GitHub](https://www.codecademy.com/courses/learn-git/articles/f1-u3-git-setup)
