@@ -8,6 +8,8 @@ $ git status
 
 git status
 
+echo "# Learn-Git" >> README.md
+
 # Podemos agregar un archivo al área de preparación 
 
 $ git add filename
@@ -23,4 +25,7 @@ $ git diff filename
 $ git commit -m "Complete first line of dialogue"
 
 # Los commits se almacenan cronológicamente en el repositorio
+
+git log
+
 

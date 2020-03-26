@@ -1,14 +1,16 @@
 **Basic Git Workflow**
 
+![Git screen](Git.JPG)
+
 LESSON 1
 
 An introduction to Git and a few of its core features.
 
 Exercises
 
-- [ ] 1. Hello Git
+- [X] 1. Hello Git
 
-- [ ] 2. git init
+- [X] 2. git init
 
 - [ ] 3. Git Workflow
 
