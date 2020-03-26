@@ -35,3 +35,30 @@ Exercises
 ---
 
 [Getting Started with Git and GitHub](https://www.codecademy.com/courses/learn-git/articles/f1-u3-git-setup)
+
+
+**How to Backtrack**
+
+LESSON 2
+
+Learn about a few different ways to undo changes made to a Git project and when to use them.
+
+Exercises
+
+- [x] 1. Backtracking Intro
+
+- [x] 2. head commit
+
+![Head screen](Head.JPG)
+
+- [x] 3. git checkout
+
+- [ ] 4. more git add
+
+- [ ] 5. git reset I
+
+- [ ] 6. git reset II
+
+- [ ] 7. git reset review
+
+- [ ] 8. Generalizations
