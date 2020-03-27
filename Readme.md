@@ -53,12 +53,18 @@ Exercises
 
 - [x] 3. git checkout
 
-- [ ] 4. more git add
+- [x] 4. more git add
 
-- [ ] 5. git reset I
+- [x] 5. git reset I
 
-- [ ] 6. git reset II
+![Reset1 screen](Reset1.JPG)
 
-- [ ] 7. git reset review
+- [x] 6. git reset II
 
-- [ ] 8. Generalizations
+![Reset2 screen](Reset2.JPG)
+
+- [x] 7. git reset review
+
+![Review screen](Review.JPG)
+
+- [x] 8. Generalizations
