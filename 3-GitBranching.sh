@@ -18,3 +18,9 @@ $ git push --set-upstream origin new_branch
 ## atajo
 
 $ git push -u origin new_branch
+
+## git merge
+
+## Podemos fusionar fácilmente la rama en maestra con:
+
+$ git merge branch_name
