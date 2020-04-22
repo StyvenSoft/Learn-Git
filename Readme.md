@@ -79,13 +79,15 @@ Exercises
 
 - [x] 1. git branch
 
-- [ ] 2. branching overview
+- [x] 2. branching overview
 
-- [ ] 3. git branch 2
+![Branching screen](Branching.PNG)
 
-- [ ] 4. git checkout
+- [x] 3. git branch 2
 
-- [ ] 5. commit on a new branch
+- [x] 4. git checkout
+
+- [x] 5. commit on a new branch
 
 - [ ] 6. git merge
 
