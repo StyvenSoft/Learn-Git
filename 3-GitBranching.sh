@@ -9,3 +9,12 @@ $ git branch new_branch
 ## Puede cambiar a la nueva rama con:
 
 $ git checkout branch_name
+
+## La rama actual new_branch no tiene rama ascendente.
+## Para empujar la rama actual y configurar el control remoto como ascendente, use
+
+$ git push --set-upstream origin new_branch
+
+## atajo
+
+$ git push -u origin new_branch
