@@ -45,6 +45,9 @@ $ git reset 5d69206
 
 git checkout HEAD filename 
 # Descarta los cambios en el directorio de trabajo.
+## atajo
+git checkout -- filename 
+##
 git reset HEAD filename
 # Cambios en el archivo de etapas en el área de preparación.
 git reset commit_SHA

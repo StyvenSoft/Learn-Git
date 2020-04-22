@@ -14,6 +14,9 @@ echo "# Learn-Git" >> README.md
 
 $ git add filename
 
+# Atajo
+$ git add .
+
 # podemos verificar las diferencias entre el directorio de trabajo y el área de preparación 
 
 $ git diff filename

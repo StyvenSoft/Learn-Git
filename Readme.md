@@ -68,3 +68,31 @@ Exercises
 ![Review screen](Review.JPG)
 
 - [x] 8. Generalizations
+
+**Git Branching**
+
+LESSON 3
+
+Learn how to manage multiple versions of a project with branching.
+
+Exercises
+
+- [x] 1. git branch
+
+- [ ] 2. branching overview
+
+- [ ] 3. git branch 2
+
+- [ ] 4. git checkout
+
+- [ ] 5. commit on a new branch
+
+- [ ] 6. git merge
+
+- [ ] 7. merge conflict I
+
+- [ ] 8. merge conflict II
+
+- [ ] 9. delete branch
+
+- [ ] 10. generalizations
