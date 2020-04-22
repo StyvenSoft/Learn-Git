@@ -89,7 +89,9 @@ Exercises
 
 - [x] 5. commit on a new branch
 
-- [ ] 6. git merge
+- [x] 6. git merge
+
+![Merge screen](Merge.PNG)
 
 - [ ] 7. merge conflict I
 
