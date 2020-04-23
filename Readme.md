@@ -79,20 +79,28 @@ Exercises
 
 - [x] 1. git branch
 
-- [ ] 2. branching overview
+- [x] 2. branching overview
 
-- [ ] 3. git branch 2
+![Branching screen](Branching.PNG)
 
-- [ ] 4. git checkout
+- [x] 3. git branch 2
 
-- [ ] 5. commit on a new branch
+- [x] 4. git checkout
 
-- [ ] 6. git merge
+- [x] 5. commit on a new branch
 
-- [ ] 7. merge conflict I
+- [x] 6. git merge
 
-- [ ] 8. merge conflict II
+![Merge screen](Merge.PNG)
 
-- [ ] 9. delete branch
+- [x] 7. merge conflict I
 
-- [ ] 10. generalizations
+- [x] 8. merge conflict II
+
+![Conflict screen](Conflict.PNG)
+
+![Conflict1 screen](Conflict1.PNG)
+
+- [x] 9. delete branch
+
+- [x] 10. generalizations
