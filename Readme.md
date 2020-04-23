@@ -93,10 +93,14 @@ Exercises
 
 ![Merge screen](Merge.PNG)
 
-- [ ] 7. merge conflict I
+- [x] 7. merge conflict I
 
-- [ ] 8. merge conflict II
+- [x] 8. merge conflict II
 
-- [ ] 9. delete branch
+![Conflict screen](Conflict.PNG)
 
-- [ ] 10. generalizations
+![Conflict1 screen](Conflict1.PNG)
+
+- [x] 9. delete branch
+
+- [x] 10. generalizations

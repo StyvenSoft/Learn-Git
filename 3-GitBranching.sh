@@ -24,3 +24,23 @@ $ git push -u origin new_branch
 ## Podemos fusionar fácilmente la rama en maestra con:
 
 $ git merge branch_name
+
+## merge conflict I
+
+##  Cuando vuelves mastery le pides a Git que combine las dos ramas
+## Git no sabe qué cambios quieres conservar. Esto se llama un conflicto de fusión .
+
+## merge conflict II
+
+## delete branch
+
+## En Git, las ramas suelen ser un medio para un fin
+
+## Los crea para trabajar en una nueva característica del proyecto, pero el objetivo final es fusionar esa característica en la master rama.
+
+## eliminará la rama especificada de su proyecto Git:
+
+$ git branch -d branch_name
+
+
+
