@@ -104,3 +104,31 @@ Exercises
 - [x] 9. delete branch
 
 - [x] 10. generalizations
+
+**Git Teamwork**
+
+LESSON 4
+
+An introduction to Git collaborations with remotes, pulling, and pushing.
+
+Exercises
+
+- [x] 1. Overview
+
+- [x] 2. git clone
+
+- [x] 3. git remote -v
+
+![Remote screen](remote.PNG)
+
+- [ ] 4. git fetch
+
+![fetch screen](fetch.PNG)
+
+- [x] 5. git merge
+
+- [x] 6. Git workflow
+
+- [x] 7. git push
+
+![push screen](push.PNG)
